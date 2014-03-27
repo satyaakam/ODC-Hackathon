@@ -3,7 +3,7 @@ from pytagcloud import create_tag_image, make_tags
 from pytagcloud.lang.counter import get_tag_counts
 
 
-party_names = ['cpim']
+party_names = ['cpim','inc']
 
 
 with open('stopWords.txt') as f:
